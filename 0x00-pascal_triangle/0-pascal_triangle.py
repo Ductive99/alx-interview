@@ -3,6 +3,7 @@
 Module defiining a function for Pascal triangles
 """
 
+
 def pascal_triangle(n):
     """
     Returns a pascal triangle represented by a list of lists.

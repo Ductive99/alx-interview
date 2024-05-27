@@ -17,4 +17,5 @@ Here are the concepts you'd need to grasp the necessary algorithms and technique
 - Recursion
 - List Manipulation
 - Command Line Arguments
+
 Since I'll be using python these concepts will be specific to it.

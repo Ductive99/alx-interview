@@ -2,6 +2,7 @@
 """Module that defines the makeChange function
 """
 
+
 def makeChange(coins, total):
     """
     Returns the fewest number of coins
@@ -16,7 +17,7 @@ def makeChange(coins, total):
 
     coins_sorted = sorted(coins, reverse=True)
     n = len(coins)
-    
+
     while rest > 0:
         if coin_index >= n:
             return -1

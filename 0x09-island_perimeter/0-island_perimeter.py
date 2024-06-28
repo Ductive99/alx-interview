@@ -2,10 +2,13 @@
 """
 Module that defines the island_perimeter function
 """
+
+
 def check_val(n):
     """Checks if a number is equal to 0
     """
     return 1 if n == 0 else 0
+
 
 def island_perimeter(grid):
     """Island Perimeter function
